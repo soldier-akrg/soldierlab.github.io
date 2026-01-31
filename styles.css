@@ -1,0 +1,33 @@
+#header{
+    text-align: center;
+    font-size:xx-large;
+    border: groove 5px greenyellow ;
+    background-color: rgb(253, 253, 168);
+}
+#main{
+    margin-top: 10px;
+    
+}
+#mobiles{
+    
+    margin-top: 10px;
+    border: solid 2px rgb(86, 38, 38);
+    background-color: antiquewhite;
+
+}
+.products{
+    font-size: large;
+    display: grid;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100jpx, 0fr));
+
+    gap: 20px;
+}
+#laptops{
+    margin-top: 10px;
+    border: solid 2px rgb(86, 38, 38);
+    background-color: antiquewhite;
+}
+article{
+    border: solid 2px black;
+}
